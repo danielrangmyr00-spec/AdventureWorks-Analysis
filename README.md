@@ -9,4 +9,4 @@ Innehåll
 - Regional försäljning
 - Kundanalys
 
-Resultaten presenteras i form av visualiseringar och affärsinsikter.
+Resultaten presenteras i form av 7 stycken visualiseringar med affärsinsikter.
